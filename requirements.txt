@@ -1,0 +1,11 @@
+transformers
+peft
+datasets
+pandas
+torch
+scikit-learn
+numpy
+ray
+ray[serve]
+streamlit
+sentencepiece
