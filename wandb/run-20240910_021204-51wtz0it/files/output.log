@@ -1,0 +1,13 @@
+[nltk_data] Downloading package punkt to /Users/saahil/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/Users/saahil/Desktop/Coding_Projects/LLMS/LoraPeft-BioMRc/env2/lib/python3.9/site-packages/transformers/tokenization_utils_base.py:1601: FutureWarning: `clean_up_tokenization_spaces` was not set. It will be set to `True` by default. This behavior will be depracted in transformers v4.45, and will be then set to `False` by default. For more details check this issue: https://github.com/huggingface/transformers/issues/31884
+  warnings.warn(
+
+
+Map: 100%|██████████| 9843/9843 [00:05<00:00, 1862.69 examples/s]
+
+
+Map: 100%|██████████| 9843/9843 [00:05<00:00, 1854.41 examples/s]
+
+
+/Users/saahil/Desktop/Coding_Projects/LLMS/LoraPeft-BioMRc/env2/lib/python3.9/site-packages/transformers/training_args.py:1525: FutureWarning: `evaluation_strategy` is deprecated and will be removed in version 4.46 of 🤗 Transformers. Use `eval_strategy` instead

@@ -1,0 +1,42 @@
+{
+    "os": "macOS-14.4.1-arm64-arm-64bit",
+    "python": "3.9.6",
+    "heartbeatAt": "2024-09-09T20:42:06.868645",
+    "startedAt": "2024-09-09T20:42:04.752958",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "Saahils-MacBook-Pro.local",
+    "username": "saahil",
+    "executable": "/Users/saahil/Desktop/Coding_Projects/LLMS/LoraPeft-BioMRc/env2/bin/python",
+    "cpu_count": 14,
+    "cpu_count_logical": 14,
+    "cpu_freq": {
+        "current": 4056,
+        "min": 1020,
+        "max": 4056
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4056,
+            "min": 1020,
+            "max": 4056
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 926.3517189025879,
+            "used": 19.079010009765625
+        }
+    },
+    "gpuapple": {
+        "type": "Apple M3 Max",
+        "vendor": "sppci_vendor_Apple"
+    },
+    "memory": {
+        "total": 36.0
+    }
+}
